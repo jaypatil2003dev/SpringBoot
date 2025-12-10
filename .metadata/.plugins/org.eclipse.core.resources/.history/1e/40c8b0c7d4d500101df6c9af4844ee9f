@@ -1,0 +1,5 @@
+package com.project.payroll.config;
+
+public class HibernateConfig {
+
+}

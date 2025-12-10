@@ -1,0 +1,17 @@
+package com.project.payroll.dao;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class EmployeeDAOImpl implements EmployeeDAO{
+	
+	@Autowired
+	private SessionFactory sessionFactory;
+	
+	
+	Session session = sessionFactory.openSession();
+	session.beginTransaction();
+	
+
+}

@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+    <table border="1">
+<tr>
+    <th>Name</th><th>Basic</th><th>HRA</th><th>DA</th><th>PF</th><th>Gross</th><th>Net</th>
+</tr>
+
+<c:forEach items="${list}" var="e">
+<tr>
+    <td>${e.name}</td>
+    <td>${e.basicSalary}</td>
+    <td>${e.hra}</td>
+    <td>${e.da}</td>
+    <td>${e.pf}</td>
+    <td>${e.grossSalary}</td>
+    <td>${e.netSalary}</td>
+</tr>
+</c:forEach>
+
+</table>
+    
+
+</body>
+</html>

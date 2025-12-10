@@ -1,0 +1,71 @@
+package com.project.payroll.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
+public class Employee {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+	private String name;
+	
+	private double basicSalary;
+	private double hra;
+	private double da;
+	private double pf;
+	
+	private double grossSalary;
+	private double netSalary;
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public double getBasicSalary() {
+		return basicSalary;
+	}
+	public void setBasicSalary(double basicSalary) {
+		this.basicSalary = basicSalary;
+	}
+	public double getHra() {
+		return hra;
+	}
+	public void setHra(double hra) {
+		this.hra = hra;
+	}
+	public double getDa() {
+		return da;
+	}
+	public void setDa(double da) {
+		this.da = da;
+	}
+	public double getPf() {
+		return pf;
+	}
+	public void setPf(double pf) {
+		this.pf = pf;
+	}
+	public double getGrossSalary() {
+		return grossSalary;
+	}
+	public void setGrossSalary(double grossSalary) {
+		this.grossSalary = grossSalary;
+	}
+	public double getNetSalary() {
+		return netSalary;
+	}
+	public void setNetSalary(double netSalary) {
+		this.netSalary = netSalary;
+	}
+	
+	
+
+}

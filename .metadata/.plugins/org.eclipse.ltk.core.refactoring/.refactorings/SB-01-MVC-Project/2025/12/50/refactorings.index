@@ -1,0 +1,22 @@
+1765210924346	Delete element
+1765211154424	Delete element
+1765211178759	Delete element
+1765211319804	Copy package
+1765211322870	Delete element
+1765211662441	Delete element
+1765212124284	Delete element
+1765212247421	Delete element
+1765212786196	Delete element
+1765212792912	Delete element
+1765213362471	Delete element
+1765219559739	Extract local variable 'name'
+1765219590217	Extract local variable 'email'
+1765219607977	Extract local variable 'pwd'
+1765219632326	Extract local variable 'phn'
+1765221777606	Delete element
+1765221781106	Delete element
+1765277850465	Extract local variable 'username'
+1765277873641	Extract local variable 'useremail'
+1765277899709	Extract local variable 'userpass'
+1765277918322	Extract local variable 'userphone'
+1765278243839	Rename resource 'Home.jsp'

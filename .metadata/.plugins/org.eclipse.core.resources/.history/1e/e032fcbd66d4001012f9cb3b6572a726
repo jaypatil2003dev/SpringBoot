@@ -1,0 +1,39 @@
+package com.project.test.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import jakarta.servlet.http.HttpServletRequest;
+
+@Controller
+public class MsgController {
+	
+	// API's
+	
+	@RequestMapping("/msg")
+	public String getMessage() {
+		System.out.println("Msg Api is triggered");
+		return "message.jsp";
+	}
+	
+	@RequestMapping("/greet")
+	public String greet() {
+		System.out.println("greet api triggred");
+		return "greet.jsp";
+	}
+	
+	@RequestMapping(value = "/register", method = RequestMethod.POST)
+	public String registerUser(HttpServletRequest req) {
+		System.out.println("Register api triggered");
+		String name = req.getParameter("name");
+		String email = req.getParameter("email");
+		String pwd = req.getParameter("password");
+		String phn = req.getParameter("phone");
+		
+		return "register.jsp";
+		
+	}
+	
+
+}

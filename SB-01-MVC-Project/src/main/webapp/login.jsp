@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+    <h1>Login</h1>
+    <form action="login" method="post">
+    
+    <h3 style="color: red">${error}</h3>
+    
+    <label>Email: </label>
+    <input type="email" name="email" placeholder="Enter Email" required>
+    
+    <label>Password: </label>
+    <input type="password" name="pwd" placeholder="Enter Password" required>
+    
+    
+    <button type="submit">Login</button>
+    
+    </form>
+
+</body>
+</html>

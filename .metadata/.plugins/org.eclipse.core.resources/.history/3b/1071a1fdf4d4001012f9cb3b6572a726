@@ -1,0 +1,13 @@
+package com.project.test.controller;
+
+public class UserDTO {
+	
+	String name;
+	String email;
+	String password;
+	long phone;
+	double height;
+	double weight;
+	String degree;
+
+}

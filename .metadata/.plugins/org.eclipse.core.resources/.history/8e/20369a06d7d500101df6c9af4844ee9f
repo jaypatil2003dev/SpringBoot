@@ -1,0 +1,30 @@
+package com.project.payroll.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.project.payroll.service.EmployeeService;
+
+@Controller
+public class EmployeeController {
+	
+	private EmployeeService service;
+	
+	@GetMapping("/")
+	public String home() {
+		return "add-employee";
+	}
+	
+	@PostMapping("/add")
+    public String addEmployee(Employee employee) {
+        service.addEmployee(employee);
+        return "redirect:/view";
+    }
+
+    @GetMapping("/view")
+    public String viewEmployees(Map<String, Object> map) {
+        map.put("list", service.getAllEmployees());
+        return "view-employees";
+    }
+
+}
