@@ -2,6 +2,8 @@ package com.project.test.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
@@ -95,20 +97,22 @@ public class MsgController {
 		}
 	}
 	
-	@RequestMapping("/reg")
+	
+//	Form Binding
+	@GetMapping("/reg")
 	public String displayRegister(Model model) {
 		model.addAttribute("dto", new UserDTO());
 		
 		return "register.jsp";
 	}
 	
-	@RequestMapping(value = "/register", method = RequestMethod.POST)
 	public String getForm(UserDTO dto) {
-		
 		System.out.println(dto);
 		
 		return "register.jsp";
 	}
+	
+	
 	
 	
 	

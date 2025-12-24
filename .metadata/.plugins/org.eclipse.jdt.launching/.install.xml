@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="C:\Program Files\Java\jdk-17" stamp="1762864286493"/>
     <entry loc="C:\Users\jaypa\Downloads\sts-4.24.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" stamp="1765120152801"/>
     <entry loc="C:\Users\jaypa\Downloads\sts-4.24.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre" stamp="1765120154859"/>
+    <entry loc="C:\Users\jaypa\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.17.10-hotspot" stamp="1765616619522"/>
 </dirs>
