@@ -1,6 +1,0 @@
-spring.application.name=SB-01-MVC-Project-1
-
-spring.mvc.view.prefix=/WEB-INF/jsp/
-spring.mvc.view.suffix=.jsp
-
-spring.main.web-application-type=servlet
