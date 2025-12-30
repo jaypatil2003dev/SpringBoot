@@ -3636,3 +3636,309 @@ Caused by: java.lang.Exception: File not found: C:\Users\jaypa\OneDrive\Desktop\
 2025-12-26 20:15:42,084 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-12-26 20:15:42,101 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-12-26 20:15:42,109 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-07-DataRest\src\test\resources
+2025-12-26 20:16:56,545 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 20:16:56,563 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 20:16:56,572 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-07-DataRest\src\test\resources
+2025-12-26 20:17:22,935 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 20:17:22,982 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 20:17:22,992 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-07-DataRest\src\test\resources
+2025-12-26 20:17:44,196 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 20:17:44,209 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 20:17:44,218 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-07-DataRest\src\test\resources
+2025-12-26 22:36:35,668 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SB-08-Spring-Security:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\pom.xml.
+2025-12-26 22:36:36,170 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/4.0.1/spring-boot-starter-security-4.0.1.pom
+2025-12-26 22:36:36,258 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/4.0.1/spring-boot-starter-security-4.0.1.pom
+2025-12-26 22:36:36,665 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security/4.0.1/spring-boot-security-4.0.1.pom
+2025-12-26 22:36:36,712 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security/4.0.1/spring-boot-security-4.0.1.pom
+2025-12-26 22:36:36,754 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/7.0.2/spring-security-config-7.0.2.pom
+2025-12-26 22:36:36,798 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/7.0.2/spring-security-config-7.0.2.pom
+2025-12-26 22:36:36,848 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/7.0.2/spring-security-core-7.0.2.pom
+2025-12-26 22:36:36,894 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/7.0.2/spring-security-core-7.0.2.pom
+2025-12-26 22:36:36,947 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/7.0.2/spring-security-crypto-7.0.2.pom
+2025-12-26 22:36:36,992 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/7.0.2/spring-security-crypto-7.0.2.pom
+2025-12-26 22:36:37,046 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2.pom
+2025-12-26 22:36:37,092 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2.pom
+2025-12-26 22:36:37,232 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security-test/4.0.1/spring-boot-starter-security-test-4.0.1.pom
+2025-12-26 22:36:37,279 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security-test/4.0.1/spring-boot-starter-security-test-4.0.1.pom
+2025-12-26 22:36:37,477 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security-test/4.0.1/spring-boot-security-test-4.0.1.pom
+2025-12-26 22:36:37,522 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security-test/4.0.1/spring-boot-security-test-4.0.1.pom
+2025-12-26 22:36:37,565 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/7.0.2/spring-security-test-7.0.2.pom
+2025-12-26 22:36:37,615 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/7.0.2/spring-security-test-7.0.2.pom
+2025-12-26 22:36:37,956 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/4.0.1/spring-boot-starter-security-4.0.1.jar
+2025-12-26 22:36:38,032 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/4.0.1/spring-boot-starter-security-4.0.1.jar
+2025-12-26 22:36:38,064 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/7.0.2/spring-security-core-7.0.2.jar
+2025-12-26 22:36:38,124 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security/4.0.1/spring-boot-security-4.0.1.jar
+2025-12-26 22:36:38,142 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/7.0.2/spring-security-config-7.0.2.jar
+2025-12-26 22:36:38,158 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2.jar
+2025-12-26 22:36:38,192 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/7.0.2/spring-security-core-7.0.2.jar
+2025-12-26 22:36:38,200 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/7.0.2/spring-security-crypto-7.0.2.jar
+2025-12-26 22:36:38,238 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security/4.0.1/spring-boot-security-4.0.1.jar
+2025-12-26 22:36:38,285 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security-test/4.0.1/spring-boot-starter-security-test-4.0.1.jar
+2025-12-26 22:36:38,330 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/7.0.2/spring-security-crypto-7.0.2.jar
+2025-12-26 22:36:38,365 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security-test/4.0.1/spring-boot-starter-security-test-4.0.1.jar
+2025-12-26 22:36:38,442 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/7.0.2/spring-security-test-7.0.2.jar
+2025-12-26 22:36:38,588 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/7.0.2/spring-security-test-7.0.2.jar
+2025-12-26 22:36:38,712 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security-test/4.0.1/spring-boot-security-test-4.0.1.jar
+2025-12-26 22:36:38,920 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2.jar
+2025-12-26 22:36:39,054 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/7.0.2/spring-security-config-7.0.2.jar
+2025-12-26 22:36:39,060 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security-test/4.0.1/spring-boot-security-test-4.0.1.jar
+2025-12-26 22:36:40,386 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-08-Spring-Security/src/main/java
+2025-12-26 22:36:40,387 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-08-Spring-Security/src/main/resources
+2025-12-26 22:36:40,396 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-08-Spring-Security/src/main/resources
+2025-12-26 22:36:40,405 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-08-Spring-Security/src/test/java
+2025-12-26 22:36:40,407 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-08-Spring-Security/src/test/resources
+2025-12-26 22:36:40,925 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/4.0.1/spring-boot-starter-security-4.0.1-sources.jar
+2025-12-26 22:36:40,960 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/4.0.1/spring-boot-starter-security-4.0.1-sources.jar
+2025-12-26 22:36:40,976 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:4.0.1
+2025-12-26 22:36:41,100 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security/4.0.1/spring-boot-security-4.0.1-sources.jar
+2025-12-26 22:36:41,175 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security/4.0.1/spring-boot-security-4.0.1-sources.jar
+2025-12-26 22:36:41,188 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-security:4.0.1
+2025-12-26 22:36:41,299 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/7.0.2/spring-security-config-7.0.2-sources.jar
+2025-12-26 22:36:41,400 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2025-12-26 22:36:41,409 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-12-26 22:36:41,756 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/7.0.2/spring-security-config-7.0.2-sources.jar
+2025-12-26 22:36:41,774 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:7.0.2
+2025-12-26 22:36:43,107 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SB-08-Spring-Security:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\pom.xml.
+2025-12-26 22:36:43,177 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/7.0.2/spring-security-core-7.0.2-sources.jar
+2025-12-26 22:36:43,283 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/7.0.2/spring-security-core-7.0.2-sources.jar
+2025-12-26 22:36:43,290 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:7.0.2
+2025-12-26 22:36:43,396 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/7.0.2/spring-security-crypto-7.0.2-sources.jar
+2025-12-26 22:36:43,451 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/7.0.2/spring-security-crypto-7.0.2-sources.jar
+2025-12-26 22:36:43,462 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:7.0.2
+2025-12-26 22:36:43,732 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2-sources.jar
+2025-12-26 22:36:43,870 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/7.0.2/spring-security-web-7.0.2-sources.jar
+2025-12-26 22:36:43,877 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:7.0.2
+2025-12-26 22:36:43,972 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security-test/4.0.1/spring-boot-starter-security-test-4.0.1-sources.jar
+2025-12-26 22:36:43,982 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security-test/4.0.1/spring-boot-starter-security-test-4.0.1-sources.jar
+2025-12-26 22:36:43,991 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security-test:4.0.1
+2025-12-26 22:36:44,046 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-08-Spring-Security/src/main/java
+2025-12-26 22:36:44,047 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-08-Spring-Security/src/main/resources
+2025-12-26 22:36:44,048 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-08-Spring-Security/src/main/resources
+2025-12-26 22:36:44,049 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-08-Spring-Security/src/test/java
+2025-12-26 22:36:44,050 [Worker-23: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-08-Spring-Security/src/test/resources
+2025-12-26 22:36:44,080 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security-test/4.0.1/spring-boot-security-test-4.0.1-sources.jar
+2025-12-26 22:36:44,347 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-security-test/4.0.1/spring-boot-security-test-4.0.1-sources.jar
+2025-12-26 22:36:44,356 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-security-test:4.0.1
+2025-12-26 22:36:44,467 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/7.0.2/spring-security-test-7.0.2-sources.jar
+2025-12-26 22:36:44,518 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/7.0.2/spring-security-test-7.0.2-sources.jar
+2025-12-26 22:36:44,528 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:7.0.2
+2025-12-26 22:36:44,653 [Worker-23: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-12-26 22:36:45,631 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 22:36:45,657 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 22:36:45,665 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 22:45:33,131 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 22:45:33,148 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 22:45:33,156 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 22:55:55,259 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 22:55:55,281 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 22:55:55,292 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 22:57:48,582 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 22:57:48,600 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 22:57:48,608 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 22:58:43,812 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 22:58:43,824 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 22:58:43,829 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 22:59:18,354 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 22:59:18,370 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 22:59:18,381 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 22:59:52,121 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 22:59:52,134 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 22:59:52,139 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 23:03:44,348 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 23:03:44,358 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 23:03:44,363 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 23:06:12,246 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 23:06:12,258 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 23:06:12,265 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 23:07:07,731 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 23:07:07,741 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 23:07:07,747 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 23:14:02,321 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 23:14:02,331 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 23:14:02,337 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 23:25:26,734 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 23:25:26,750 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 23:25:26,758 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 23:25:45,122 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 23:25:45,130 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 23:25:45,136 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-26 23:26:44,053 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-26 23:26:44,064 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-26 23:26:44,069 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-08-Spring-Security\src\test\resources
+2025-12-28 01:33:30,405 [Worker-58: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Faculty-Leave-Management:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\pom.xml.
+2025-12-28 01:33:35,182 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Faculty-Leave-Management/src/main/java
+2025-12-28 01:33:35,185 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/main/resources
+2025-12-28 01:33:35,216 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/main/resources
+2025-12-28 01:33:35,267 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Faculty-Leave-Management/src/test/java
+2025-12-28 01:33:35,270 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/test/resources
+2025-12-28 01:33:41,851 [Worker-58: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2025-12-28 01:33:41,859 [Worker-58: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-12-28 01:33:42,518 [Worker-58: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Faculty-Leave-Management:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\pom.xml.
+2025-12-28 01:33:43,809 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Faculty-Leave-Management/src/main/java
+2025-12-28 01:33:43,811 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/main/resources
+2025-12-28 01:33:43,812 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/main/resources
+2025-12-28 01:33:43,813 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Faculty-Leave-Management/src/test/java
+2025-12-28 01:33:43,815 [Worker-58: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/test/resources
+2025-12-28 01:33:44,478 [Worker-58: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-12-28 01:33:46,078 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:33:46,115 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:33:46,127 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:36:16,731 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:36:16,736 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:36:16,751 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:36:44,274 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:36:44,277 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:36:44,283 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:37:04,501 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:37:04,504 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:37:04,527 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:37:38,931 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:37:38,936 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:37:38,944 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:37:54,563 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:37:54,567 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:37:54,575 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:38:08,709 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:38:08,712 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:38:08,719 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:38:19,896 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:38:19,900 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:38:19,906 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:38:57,313 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:38:57,319 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:38:57,328 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:39:20,986 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:39:20,991 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:39:20,998 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:39:31,686 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:39:31,691 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:39:31,697 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:39:43,171 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:39:43,176 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:39:43,183 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:40:24,078 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:40:24,083 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:40:24,092 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:40:42,990 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:40:42,996 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:40:43,004 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:41:15,302 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:41:15,310 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:41:15,316 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:42:03,539 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:42:03,546 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:42:03,557 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:42:35,226 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:42:35,232 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:42:35,246 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:43:00,939 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:43:00,944 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:43:00,954 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:43:22,529 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:43:22,535 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:43:22,544 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:43:31,533 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:43:31,539 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:43:31,550 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:44:40,746 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:44:40,753 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:44:40,760 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:45:02,754 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:45:02,760 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:45:02,774 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:46:00,480 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:46:00,499 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2025-12-28 01:46:00,525 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:46:18,760 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:46:18,772 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2025-12-28 01:46:18,786 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:47:12,809 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:47:12,833 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2025-12-28 01:47:12,856 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:52:07,510 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Faculty-Leave-Management:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\pom.xml.
+2025-12-28 01:52:09,202 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:52:09,211 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-28 01:52:09,219 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-28 01:52:09,415 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-12-28 01:52:10,428 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Faculty-Leave-Management:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\pom.xml.
+2025-12-28 01:52:11,685 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Faculty-Leave-Management/src/main/java
+2025-12-28 01:52:11,686 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/main/resources
+2025-12-28 01:52:11,688 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/main/resources
+2025-12-28 01:52:11,689 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Faculty-Leave-Management/src/test/java
+2025-12-28 01:52:11,690 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Faculty-Leave-Management/src/test/resources
+2025-12-28 01:52:12,305 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-12-28 01:52:12,753 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-28 01:52:12,776 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2025-12-28 01:52:12,796 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\Faculty-Leave-Management\src\test\resources
+2025-12-30 18:30:17,505 [Worker-91: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SB-09-Security-InMemory:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\pom.xml.
+2025-12-30 18:30:22,257 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-09-Security-InMemory/src/main/java
+2025-12-30 18:30:22,260 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-09-Security-InMemory/src/main/resources
+2025-12-30 18:30:22,287 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-09-Security-InMemory/src/main/resources
+2025-12-30 18:30:22,309 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-09-Security-InMemory/src/test/java
+2025-12-30 18:30:22,311 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-09-Security-InMemory/src/test/resources
+2025-12-30 18:30:27,584 [Worker-91: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2025-12-30 18:30:27,589 [Worker-91: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-12-30 18:30:28,229 [Worker-91: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SB-09-Security-InMemory:0.0.1-SNAPSHOT @ C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\pom.xml.
+2025-12-30 18:30:29,376 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-09-Security-InMemory/src/main/java
+2025-12-30 18:30:29,377 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-09-Security-InMemory/src/main/resources
+2025-12-30 18:30:29,378 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-09-Security-InMemory/src/main/resources
+2025-12-30 18:30:29,378 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SB-09-Security-InMemory/src/test/java
+2025-12-30 18:30:29,379 [Worker-91: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SB-09-Security-InMemory/src/test/resources
+2025-12-30 18:30:29,816 [Worker-91: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-12-30 18:30:30,734 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:30:30,754 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:30:30,760 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:31:45,256 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:31:45,268 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:31:45,274 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:33:11,652 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:33:11,660 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:33:11,663 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:33:37,030 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:33:37,039 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:33:37,044 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:34:34,599 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:34:34,605 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:34:34,609 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:34:39,991 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:34:39,998 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:34:40,002 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:34:59,411 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:34:59,418 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:34:59,421 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:35:44,745 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:35:44,756 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:35:44,761 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:36:18,142 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:36:18,149 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:36:18,153 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:36:36,103 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:36:36,113 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:36:36,119 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:42:02,074 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:42:02,093 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:42:02,097 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:42:11,307 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:42:11,314 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:42:11,319 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:42:21,939 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:42:21,950 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:42:21,957 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:43:26,644 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:43:26,655 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:43:26,662 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:49:54,279 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:49:54,291 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:49:54,295 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:54:04,832 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:54:04,841 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:54:04,846 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:55:40,723 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:55:40,733 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:55:40,737 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 18:55:54,839 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 18:55:54,846 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 18:55:54,850 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
+2025-12-30 19:00:26,851 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-12-30 19:00:26,859 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-12-30 19:00:26,863 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jaypa\OneDrive\Desktop\Spring SpringBoot\SB-09-Security-InMemory\src\test\resources
